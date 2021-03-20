@@ -1,0 +1,130 @@
+address{
+    font-size: 3px;
+}
+
+
+
+.for1{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:300px;
+    height: 500px;
+    position: absolute;
+    top: 250px;
+    right: 20px;
+}
+.for1 span{
+    margin:30px 0px;
+    font-weight: 500;
+    font-size:25px;
+    color:yellowgreen;
+}
+.for1 p{
+    margin: 30px 0px;
+    text-align: start;
+    color:yellowgreen;
+}
+.for2{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:300px;
+    height: 300px;
+    position: absolute;
+    top: 310px;
+    right: 90px;
+    padding: 15px;
+}
+.for2 span{
+    margin:30px 0px;
+    font-weight: 700;
+    font-size:25px;
+    color:#2d3436;
+}
+.for2 p{
+    margin: 30px 0px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color:#2d3436;
+}
+.for3{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:300px;
+    height: 400px;
+    position: absolute;
+    top: 200px;
+    right: 350px;
+}
+.for3 span{
+    margin:30px 0px;
+    font-weight: 600;
+    font-size:25px;
+    color:#006039;
+}
+.for3 p{
+    margin: 30px 0px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: start;
+    color:#006039;
+}
+.for4{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:300px;
+    height: 400px;
+    position: absolute;
+    top: 200px;
+    right: 350px;
+}
+.for4 span{
+    margin:30px 0px;
+    font-weight: 500;
+    font-size:20px;
+    color:#b2bec3;
+}
+.for4 p{
+    margin: 30px 0px;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: start;
+    color:#b2bec3;
+}
+.for5{
+    display: none;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    width:300px;
+    height: 400px;
+    position: absolute;
+    top: 40px;
+    right: 700px;
+}
+.for5 span{
+    margin:30px 0px;
+    font-weight: 500;
+    font-size:20px;
+    color:#0a3d62;
+}
+.for5 p{
+    margin: 30px 0px;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: start;
+    color:#0a3d62;
+}
+
+
+.discover{
+    display:flex;
+}
